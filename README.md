@@ -1,0 +1,2 @@
+# Patient-health-monitoring-using-IOT
+ESP8266 NodeMCU along with  AD8232(SPO2 & heartbeat Sensor) and MLX90614(non-contact infrared thermometer) sensors were used to establish a compact system of data collection, distribution and visualization in real time within a local network. I2C protocol is being used here to establish a continuous communication of the other sensors with the NodeMCU.  The system shows data in real time on a local server and can disable itself if no data is being collected for a certain amount of time.
